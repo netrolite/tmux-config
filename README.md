@@ -1,1 +1,1 @@
-clone this repo into `~/.config/` and install [tpm](https://github.com/tmux-plugins/tpm)
+Install [tpm]((https://github.com/tmux-plugins/tpm)) and copy this config into `~/.tmux.conf/`
